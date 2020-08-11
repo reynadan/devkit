@@ -1,0 +1,33 @@
+div[id=login] {
+    color: #5d5d5d;
+    padding: 26px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+div[id=login] img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+div[id=login] input,
+div[id=login] button {
+    font-size: 12px;
+    margin: 16px 0;
+}
+
+div[id=login] > div {
+    text-align: center;
+}
+
+.form-links {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 50px;
+}
+
+.form-links a {
+    color: #fff;
+}
